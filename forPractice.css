@@ -1,0 +1,108 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0%;
+}
+
+h1{
+  font-size: 50px;
+}
+.name-highlight{
+  color: orange;
+}
+.half-width{
+  float:left;
+  width:40%;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img{
+  width: 100%
+}
+.top-banner{
+  background-image: url(Complete-web-development-bnagla-resources--portfolio/top-banner.png);
+  background-repeat: no-repeat;
+}
+section{
+  height: 500px;
+  padding-bottom: 150px;
+}
+.hire-me-button-design{
+  text-decoration: none;
+  background-image: linear-gradient(45deg, pink, rgb(255, 128, 119));
+  padding: 10px 20px;
+  border-radius: 10%;
+  color: aliceblue;
+}
+p{
+  color: rgb(102, 102, 102);
+}
+.dream-area{
+  background-image: url(Complete-web-development-bnagla-resources--portfolio/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.single-shadow{
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  background-color: white;
+}
+.experience-area{
+  background-image: url(Complete-web-development-bnagla-resources--portfolio/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: 0px 50%;
+}
+#full-stack{
+  border-left: 7px solid;
+  border-image: linear-gradient(lightsalmon, tomato);
+  border-image-slice: 1%;
+}
+#baby-level{
+  border-left: 7px solid;
+  border-image: linear-gradient(pink,blue);
+  border-image-slice: 1%;
+}
+.footer{
+  text-align: center;
+}
+.orange-bg{
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.row{
+  padding: 20px 20px;
+}
+.price{
+  color: #FF136F;
+}
+.container{
+  margin-bottom: 100px;
+}
+.cat1{
+  background-color: orange;
+}
+.cat2{
+  background-color:#FF136F;
+}
+.cat3{
+  background-color: blue;
+}
+.name{
+  color: white;
+  padding: 10px;
+}
+.cat1, .cat2 , .cat3{
+  border-radius: 10px;
+}
+.catagories img{
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightslategray;
+}
+.subscribe{
+  padding: 70px;
+}
+footer{
+  text-align: center;
+}
